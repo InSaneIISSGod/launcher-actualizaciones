@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "files": [
+    {
+      "path": "App.exe",
+      "url": "https://tu-servidor.com/launcher/App.exe"
+    },
+    {
+      "path": "libs/lib1.dll",
+      "url": "https://tu-servidor.com/launcher/libs/lib1.dll"
+    }
+  ]
+}
